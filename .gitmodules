@@ -1,0 +1,3 @@
+[submodule "deps/DataStructures"]
+	path = deps/DataStructures
+	url = https://github.com/luispoveda/DataStructures
